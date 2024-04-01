@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\meaningoflife\\mol_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|solutionrelative:meaningoflife\\mol_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|c:\\users\\levij\\onedrive - chippewa valley technical college\\desktop\\projects\\meaningoflife\\meaningoflife\\mol_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|solutionrelative:meaningoflife\\mol_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|c:\\users\\levij\\onedrive - chippewa valley technical college\\desktop\\projects\\meaningoflife\\meaningoflife\\mol_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AE86DE6-9932-44C0-B319-BAAB1FA73D25}|MeaningOfLife\\MeaningOfLife.csproj|solutionrelative:meaningoflife\\mol_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MOL_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.cs",
+              "RelativeDocumentMoniker": "MeaningOfLife\\MOL_Form.cs",
+              "ToolTip": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.cs [Design]",
+              "RelativeToolTip": "MeaningOfLife\\MOL_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:26:23.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MOL_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.Designer.cs",
+              "RelativeDocumentMoniker": "MeaningOfLife\\MOL_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.Designer.cs",
+              "RelativeToolTip": "MeaningOfLife\\MOL_Form.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAtwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:26:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MOL_Form.cs",
+              "DocumentMoniker": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.cs",
+              "RelativeDocumentMoniker": "MeaningOfLife\\MOL_Form.cs",
+              "ToolTip": "C:\\Users\\levij\\OneDrive - Chippewa Valley Technical College\\Desktop\\Projects\\MeaningOfLife\\MeaningOfLife\\MOL_Form.cs",
+              "RelativeToolTip": "MeaningOfLife\\MOL_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:25:36.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

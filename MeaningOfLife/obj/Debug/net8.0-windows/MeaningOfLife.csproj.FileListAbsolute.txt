@@ -1,0 +1,16 @@
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\bin\Debug\net8.0-windows\MeaningOfLife.exe
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\bin\Debug\net8.0-windows\MeaningOfLife.deps.json
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\bin\Debug\net8.0-windows\MeaningOfLife.runtimeconfig.json
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\bin\Debug\net8.0-windows\MeaningOfLife.dll
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\bin\Debug\net8.0-windows\MeaningOfLife.pdb
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.MOL_Form.resources
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.csproj.GenerateResource.cache
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.AssemblyInfoInputs.cache
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.AssemblyInfo.cs
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.csproj.CoreCompileInputs.cache
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.dll
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\refint\MeaningOfLife.dll
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.pdb
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\MeaningOfLife.genruntimeconfig.cache
+C:\Users\levij\OneDrive - Chippewa Valley Technical College\Desktop\Projects\MeaningOfLife\MeaningOfLife\obj\Debug\net8.0-windows\ref\MeaningOfLife.dll
