@@ -4,6 +4,8 @@ A very simple .NET application written in C# that reveals the meaning of life an
 
 Created April 1st, 2024
 
+** Happy April Fool's Day 2024
+
 ## Author
 
 Levi J. Liljedahl
